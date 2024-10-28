@@ -111,7 +111,7 @@
     "build": "tsup",
     "dev": "vitest",
     "lint": "eslint .",
-    "lint:fix": "nr lint --fix",
+    "lint:fix": "eslint . --fix",
     "release": "pnpm build && bumpp && npm publish"
   },
   "peerDependencies": {
