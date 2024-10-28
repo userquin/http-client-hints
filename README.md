@@ -93,7 +93,7 @@ You can also use this package when using [H3](https://github.com/unjs/h3/tree/ma
 import { extractImageClientHints } from 'http-client-hints/h3'
 ```
 
-If you want to use this package in your [Nuxt.js](https://nuxtjs.org) application, check [Nuxt HTTP Client Hints Module](https://github.com/userquin/nuxt-http-client-hints).
+If you want to use this package in your [Nuxt](https://nuxtjs.org) application, check [Nuxt HTTP Client Hints Module](https://github.com/userquin/nuxt-http-client-hints).
 
 That's it! You can now use HTTP Client Hints in your server application ✨
 
