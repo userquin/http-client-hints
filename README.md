@@ -4,7 +4,6 @@
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![JSDocs][jsdocs-src]][jsdocs-href]
 [![License][license-src]][license-href]
-[![Nuxt][nuxt-src]][nuxt-href]
 
 Access and use HTTP Client Hints in your application. Detect the client browser and the operating system on your server.
 
